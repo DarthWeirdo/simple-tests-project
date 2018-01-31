@@ -13,7 +13,7 @@
 
         public double C
         {
-            get => _c;
+            get { return _c; }
             set
             {
                 _c = value;
@@ -24,7 +24,7 @@
 
         public double K
         {
-            get => _k;
+            get { return _k; }
             set
             {
                 _k = value;
@@ -35,7 +35,7 @@
 
         public double F
         {
-            get => _f;
+            get { return _f; }
             set
             {
                 _f = value;
