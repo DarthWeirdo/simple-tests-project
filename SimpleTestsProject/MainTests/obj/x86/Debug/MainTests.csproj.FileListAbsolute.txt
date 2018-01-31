@@ -1,0 +1,14 @@
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\MainTests.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\MainTests.pdb
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\dotMemory.Unit.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\nunit.framework.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\SimpleTestsProject.exe
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\SimpleTestsProject.pdb
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\SimpleTestsProject.exe.config
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\dotMemory.Unit.xml
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\bin\x86\Debug\nunit.framework.xml
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\obj\x86\Debug\MainTests.csprojResolveAssemblyReference.cache
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\obj\x86\Debug\MainTests.csproj.CoreCompileInputs.cache
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\obj\x86\Debug\MainTests.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\MainTests\obj\x86\Debug\MainTests.pdb
