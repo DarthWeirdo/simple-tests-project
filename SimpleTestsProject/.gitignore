@@ -1,0 +1,119 @@
+# Build system files
+/Product.Root
+/NuGet.config
+/NuGet.Config
+/Packages/
+/Packages.*/
+/Artifacts/
+/Artifacts.*/
+
+# Compiling result files
+/Bin/
+/Bin.*/
+/Obj/
+/Profiler/Test/**/[Bb]in
+/Profiler/Test/**/[Oo]bj
+/Profiler/Tests/**/[Bb]in
+/Profiler/Tests/**/[Oo]bj
+/Psi.Features/**/obj/
+/Platform/**/obj/
+/ReSharperAutomationTools/**/obj/
+/ReSharper/**/obj/
+
+# Visual Studion and ReSharper files
+_ReSharper.Caches/
+.vs/
+ipch/
+*.sdf
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Generated files
+*.Generated.*
+*.generated.*
+*Generated.cs
+*Generated.vb
+*Generated.fs
+
+# Temp files
+*.tmp
+*.tmp_proj
+*.orig
+
+# Idea files
+/.idea/
+/dotCommon/Native/Solution/.idea/
+/EtwService/Native/Solution/.idea/
+/Profiler/Kernel/Windows/Native/Solution/.idea/
+*.iws
+
+# Vim files
+*.swp
+
+# Tools
+GitExtensions.settings.backup
+# Probably should go to local .gitignore
+/Psi.Features/Core/Psi/Gen/
+/Psi.Features/Core/Psi/Web/Src/JavaScript/resources/framework.d.ts/gen/
+/Psi.Features/Core/Psi/Web/Src/JavaScript/resources/framework/gen
+/Psi.Features/src/Features/Internal/Src/Zones.Components/Inspections/errors.cs
+/Psi.Features/src/Features/Internal/Src/Zones.Components/Inspections/Errors.cs
+/Psi.Features/**/*_lex.cs
+/Psi.Features/**/*_lex.h
+/Psi.Features/**/*_lex.depends
+/Psi.Features/**/*_Gen.h
+/Platform/RdProtocol/rider-generated/Src/com/jetbrains/rider/model/.rdgen
+/Platform/RdProtocol/rider-generated/Src/com/jetbrains/rider/model.cSharp/.rdgen
+
+# Test releated
+/Psi.Features/test/data/solutionAnalysis/issuesReport/NuGet01/packages/
+/Psi.Features/test/data/Daemon/Asp.Mvc/MvcViewLocationsTest/packages/
+/Psi.Features/test/data/UnitTestExplorer/xunit/**/*.dll
+/ReSharperAutomationTools/test/data/**/obj/
+/dotMemory/Test/Data/**/obj/
+Rider/rider/testData/**/obj/
+Rider/rider/testData/**/bin/
+Platform/test/data/**/obj/
+Psi.Features/test/data/**/obj/
+
+#Build folder
+Rider/build
+.jps-incremental-build/
+*.opensdf
+# Mac temp files
+.DS_Store
+
+#Logger's temporary
+Rider/bin/backend-log.bin
+Rider/bin/backend-log.Debug.xml
+UpgradeLog.htm
+
+# IDEA stuff for generated solutions
+.idea*.Generated
+Rider/.idea/file.template.settings.xml
+.~lock.*
+
+# .Net core project generated files
+project.lock.json
+
+# Debugger test data
+ReSharperAutomationTools/test/data/DebugBins/**/*.mdb
+ReSharperAutomationTools/test/data/DebugBins/**/*.vshost*
+ReSharperAutomationTools/test/data/DebugBins/**/*.deps.json
+ReSharperAutomationTools/test/data/DebugBins/**/*.dev.json
+ReSharperAutomationTools/test/data/DebugBins/**/.idea
+
+dotMemory/Test/ManualTests/dotMemoryUnit/LiveSolution/bin/
+dotMemory/Test/ManualTests/dotMemoryUnit/LiveSolution/obj/
+
+# Ignore Shell-generated thumbs files for folders with images.
+Thumbs.db
+
+# Log files
+*.log
+*.binlog
+
+
+Platform/RdProtocol/rider-generated/Src/com/jetbrains/rider/model.cSharp/.rdgen
