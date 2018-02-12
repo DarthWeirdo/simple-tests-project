@@ -5,7 +5,7 @@
         public int I { get; set; }
         public SimpleClass(int i)
         {
-            I = i;
+            I = i + 1;
         }
     }
 }

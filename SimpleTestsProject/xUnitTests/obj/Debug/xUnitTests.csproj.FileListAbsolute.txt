@@ -1,0 +1,17 @@
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xUnitTests.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xUnitTests.pdb
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\SimpleTestsProject.exe
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xunit.abstractions.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xunit.assert.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xunit.core.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xunit.execution.desktop.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\SimpleTestsProject.pdb
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\SimpleTestsProject.exe.config
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xunit.abstractions.xml
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xunit.assert.xml
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xunit.core.xml
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\bin\Debug\xunit.execution.desktop.xml
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\obj\Debug\xUnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\obj\Debug\xUnitTests.csproj.CoreCompileInputs.cache
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\obj\Debug\xUnitTests.dll
+C:\Projects\simple-tests-project\SimpleTestsProject\xUnitTests\obj\Debug\xUnitTests.pdb
