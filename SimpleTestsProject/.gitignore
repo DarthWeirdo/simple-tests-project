@@ -1,9 +1,9 @@
 # Build system files
 /Product.Root
-#/NuGet.config
-#/NuGet.Config
-#/Packages/
-#/Packages.*/
+/NuGet.config
+/NuGet.Config
+/Packages/
+/Packages.*/
 /Artifacts/
 /Artifacts.*/
 
