@@ -263,8 +263,15 @@
         <member name="T:JetBrains.dotMemoryUnit.Client.TypeVersionBinder">
             <summary>
             Supports type binding for data marshaling between DMU client and service with different versions
-            Used in serializer <see cref="T:JetBrains.dotMemoryUnit.Client.Serializer"/>
+            Used in serializer <see cref="T:JetBrains.dotMemoryUnit.Client.StandardSerializer"/>
             </summary>
+        </member>
+        <member name="M:JetBrains.dotMemoryUnit.Client.TypeVersionBinder.TranslateType(System.Type)">
+            <summary>
+            Translates type from one assembly version to the same type from registered assembly
+            </summary>
+            <param name="type">type for translation</param>
+            <returns>translated type</returns>
         </member>
         <member name="T:JetBrains.dotMemoryUnit.DotMemoryUnitController">
             <summary>
