@@ -1,7 +1,0 @@
-C:\Projects\simple-tests-project\SimpleTestsProject\SimpleTestsProject\bin\x86\Debug\SimpleTestsProject.exe.config
-C:\Projects\simple-tests-project\SimpleTestsProject\SimpleTestsProject\bin\x86\Debug\SimpleTestsProject.exe
-C:\Projects\simple-tests-project\SimpleTestsProject\SimpleTestsProject\bin\x86\Debug\SimpleTestsProject.pdb
-C:\Projects\simple-tests-project\SimpleTestsProject\SimpleTestsProject\obj\x86\Debug\SimpleTestsProject.csprojResolveAssemblyReference.cache
-C:\Projects\simple-tests-project\SimpleTestsProject\SimpleTestsProject\obj\x86\Debug\SimpleTestsProject.csproj.CoreCompileInputs.cache
-C:\Projects\simple-tests-project\SimpleTestsProject\SimpleTestsProject\obj\x86\Debug\SimpleTestsProject.exe
-C:\Projects\simple-tests-project\SimpleTestsProject\SimpleTestsProject\obj\x86\Debug\SimpleTestsProject.pdb
