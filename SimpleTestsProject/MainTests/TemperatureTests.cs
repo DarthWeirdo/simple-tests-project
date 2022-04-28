@@ -1,11 +1,11 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿// using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NUnit.Framework;
 using SimpleTestsProject;
 using Assert = NUnit.Framework.Assert;
 
 namespace MainTests
 {
-    [TestClass]
+    [TestFixture]
     class TemperatureTests
     {
         [Test]

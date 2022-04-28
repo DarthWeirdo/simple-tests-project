@@ -1,6 +1,4 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using SimpleTestsProject;
 using Assert = NUnit.Framework.Assert;
 
@@ -8,27 +6,28 @@ using Assert = NUnit.Framework.Assert;
 
 namespace MainTests
 {
-    [TestClass]
-    public class Tests
-    {
-        [TestMethod]
-        public void TestCircleSquare()
-        {
-            var center = new Point(0, 0);
-            var circle = new Circle(center, 10);
-            Assert.AreEqual(314, circle.GetSquare());
-        }
+    // [TestClass]
+    // public class Tests
+    // {
+    //     [TestMethod]
+    //     public void TestCircleSquare()
+    //     {
+    //         var center = new Point(0, 0);
+    //         var circle = new Circle(center, 10);
+    //         Assert.AreEqual(314, circle.GetSquare());
+    //     }
+    //
+    //     [TestMethod]
+    //     public void TestCircleLength()
+    //     {
+    //         var center = new Point(0, 0);
+    //         var circle = new Circle(center, 10);
+    //         Assert.AreEqual(62.8, circle.GetLength());
+    //     }
+    // }
 
-        [TestMethod]
-        public void TestCircleLength()
-        {
-            var center = new Point(0, 0);
-            var circle = new Circle(center, 10);
-            Assert.AreEqual(62.8, circle.GetLength());
-        }
-    }
 
-
+    [TestFixture]
     class CircleTests
     {
         [Test]
